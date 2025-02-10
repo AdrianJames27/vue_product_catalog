@@ -1,4 +1,4 @@
-# exercise2
+# vue_product_catalog
 
 ## Project setup
 ```
